@@ -1,8 +1,9 @@
 <h1 align="center">🚀 anonymous-sys19 | Architect of the Future 🌌</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=4000&color=00FFDD&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%7C+Next.js+%7C+Supabase+%7C+Flask+%7C+Django;Creando+una+red+social;Pentesting+y+Seguridad+Informática;Fusionando+Fe+y+Tecnología" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&color=00FFDD&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%7C+Next.js+%7C+Supabase+%7C+Flask+%7C+Django;Creando+una+red+social;Pentesting+y+Seguridad+Informática;Fusionando+Fe+y+Tecnología" />
 </p>
+
 
 ---
 
